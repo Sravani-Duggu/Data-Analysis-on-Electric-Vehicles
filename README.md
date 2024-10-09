@@ -21,8 +21,8 @@ Table of Contents:
 # Tasks
 # Task 1: Exploratory Data Analysis
     * For EDA, I performed both Univariate and Bivariate analyses:
-    ** Univariate Analysis:** Analyzed single variables, visualizing their distributions with histograms, box plots, and count plots.
-    ** Bivariate Analysis:**  Explored relationships between two variables using scatter plots, heatmaps, and pair plots.
+    # Univariate Analysis: Analyzed single variables, visualizing their distributions with histograms, box plots, and count plots.
+    # Bivariate Analysis: Explored relationships between two variables using scatter plots, heatmaps, and pair plots.
 
 # Task 2: Choropleth Map
   * Using plotly.express, I created a Choropleth Map to show the distribution of EVs based on location. This provides a visual representation of EV density across different regions, making it easy to spot high and low concentration areas.
